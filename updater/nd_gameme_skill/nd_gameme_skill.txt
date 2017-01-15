@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "51d07d4"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_gameme_skill.smx"
+  }
+}
